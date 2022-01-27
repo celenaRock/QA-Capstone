@@ -3,6 +3,7 @@ https://waitrapp.com/
 https://softwareengineeringdaily.com/
 
 
+
 https://medium.com/
 
 https://www.apple.com/
@@ -18,3 +19,8 @@ https://wikileaks.org/
 https://app.pluralsight.com/
 
 https://www.infowars.com/ (ironically)
+
+
+#Test Plan
+
+https://trello.com/b/wAsNN2t6/waitr
